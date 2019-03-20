@@ -7,5 +7,5 @@ The user builds a room in virtual reality by filling it with objects from the ga
 * Unit3D
 * Google VR
 # Demo (Video)
-Here's a video of me using the app with a cardboad headset
+Here's a video of me running the app in a Samsung Galaxy s6 and a cardboad headset
 https://www.youtube.com/watch?v=TfI7_k2u_jE
